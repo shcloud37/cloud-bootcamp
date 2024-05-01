@@ -1,4 +1,4 @@
 # cloud-bootcamp
-Updating File.
+Updating File
 
 Making new changes git commands
